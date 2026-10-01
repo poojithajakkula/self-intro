@@ -82,7 +82,7 @@ End-to-end analysis of COVID-19 impact across India, including state-wise trends
 
 ## 🎓 Education
 
-Bachelor of Commerce (B.Com) — Computer Applications
+Bachelor of Commerce (B.Com) — Computer Applications in
 Siddhartha Degree College for Women, Hyderabad
 Affiliated to Osmania University
 Percentage: 81%
