@@ -42,7 +42,7 @@ End-to-end analysis of COVID-19 impact across India, including state-wise trends
 
 🔗 **Project Repository**
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naresh-alakunta/COVID-19-Impact-Testing-Vaccination-India)
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/poojithajakkula/COVID-19-Impact-Testing-Vaccination-India)
 
 ##  Skills
 
