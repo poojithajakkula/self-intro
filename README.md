@@ -7,7 +7,7 @@
 </p>
 
 
-## 🧑‍💻 About Me
+##  About Me
 
 I am an aspiring Data Analyst and Data Science professional with a strong interest in transforming data into actionable insights.
 
@@ -19,15 +19,15 @@ Currently, I am expanding my knowledge of Machine Learning and building practica
 
 
 
-## ⭐ Featured Projects
+##  Featured Projects
 
-### 🦠 COVID-19 Impact, Testing & Vaccination Analysis in India
+###  COVID-19 Impact, Testing & Vaccination Analysis in India
 
 📌 **Description**
 
 End-to-end analysis of COVID-19 impact across India, including state-wise trends, healthcare burden, testing patterns, vaccination trends, and major-wave analysis.
 
-🛠️ **Tech Stack**
+ **Tech Stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -44,9 +44,9 @@ End-to-end analysis of COVID-19 impact across India, including state-wise trends
 
 [![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naresh-alakunta/COVID-19-Impact-Testing-Vaccination-India)
 
-## 🛠️ Skills
+##  Skills
 
-### 🐍 Programming & Data Analysis
+###  Programming & Data Analysis
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -82,10 +82,10 @@ End-to-end analysis of COVID-19 impact across India, including state-wise trends
 
 ## 🎓 Education
 
-
+- B.Com (Computer Applications) Graduate
+- percentage 81%
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn: [Poojitha Jakkula]
-- 📧 Email: 
-- 🐙 GitHub: 
+- 💼 LinkedIn:[poojithajakkula](https://www.linkedin.com/in/poojitha-jakkula)
+- 📧 Email: poojithajakkula23@gmail.com
