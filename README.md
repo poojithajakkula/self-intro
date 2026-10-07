@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Poojitha Jakkula</h1>
+<h1 align="center">Hi , I'm Poojitha Jakkula</h1>
 
 <h3 align="center">Data Analyst | Data Science Enthusiast</h3>
 
@@ -80,7 +80,7 @@ End-to-end analysis of COVID-19 impact across India, including state-wise trends
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-## 🎓 Education
+##  Education
 
 Bachelor of Commerce (B.Com) — Computer Applications
 Siddhartha Degree College for Women, Hyderabad
@@ -89,5 +89,5 @@ Percentage: 81%
 
 ## 🔗 Connect With Me
 
-- 💼 LinkedIn:[poojithajakkula](https://www.linkedin.com/in/poojitha-jakkula)
-- 📧 Email: poojithajakkula23@gmail.com
+-  LinkedIn:[poojithajakkula](https://www.linkedin.com/in/poojitha-jakkula)
+-  Email: poojithajakkula23@gmail.com
